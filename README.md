@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu Vardhan reddy</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 💬 Ask me about **react, node.js, mangodb, javascript, express.js, Django**
-
-- 📫 How to reach me **vishnuvrr28@gmail.com**
-
-- ⚡ Fun fact **I think i am funny**
+- 💬 Ask me about **React, Node.js, Mangodb, Javascript, Express.js, Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
